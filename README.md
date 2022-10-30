@@ -1,1 +1,1 @@
-# Temperature_Models_Of_Different_Planets
+# Basic_Temperature_Models_Of_Different_Planets
