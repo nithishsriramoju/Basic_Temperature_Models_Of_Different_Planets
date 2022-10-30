@@ -29,5 +29,5 @@ implicit none
 		write(1,*)z(i),T(i)
 	end do
 	close (1)
-	call execute_command_line('gnuplot -p gnuplott.plt')
+	call execute_command_line('gnuplot -p gnuplot_titan.plt')
 end program 

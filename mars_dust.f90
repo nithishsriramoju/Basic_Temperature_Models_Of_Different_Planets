@@ -31,5 +31,5 @@ implicit none
 		write(1,*)z(i),T(i)
 	end do
 	close (1)
-	call execute_command_line('gnuplot -p gnuplotmd.plt')
+	call execute_command_line('gnuplot -p gnuplot_mars_dust.plt')
 end program 

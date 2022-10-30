@@ -31,7 +31,7 @@ implicit none
 		write(1,*)z(i),T(i)
 	end do
 	close (1)
-	call execute_command_line('gnuplot -p gnuplot1.plt')
+	call execute_command_line('gnuplot -p gnuplot_mars.plt')
 end program 
 	
 	
