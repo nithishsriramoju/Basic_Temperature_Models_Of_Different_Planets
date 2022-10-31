@@ -1,6 +1,6 @@
 # Basic_Temperature_Models_Of_Different_Planets
 
-##### This project aims to model vertical temperature profile data using collected from Planetary Atmospheres by F.W.Taylor 
+##### This project aims to model vertical temperature profile data and compare with vertical profile data mentioned in Planetary Atmospheres by F.W.Taylor 
 
 ##### Vertical Temperature Models are programmed using simple assumptions like presence of Atmospheric layers, Convection and In the Mars case two cases i.e. with dust and without dust influence
 
